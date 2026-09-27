@@ -1,0 +1,6 @@
+{
+  "name": "AlgoVisual - Interactive DSA & Algorithms Platform",
+  "description": "Master data structures and algorithms through step-by-step visual animations, synchronized code execution, and interactive lessons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
